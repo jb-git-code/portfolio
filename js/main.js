@@ -43,7 +43,7 @@ const statLines = [
   { key: "role",     val: "Software Developer" },
   { key: "stack",    val: "Flutter · Node.js · MongoDB" },
   { key: "college",  val: "IIIT Bhagalpur, CSE '28" },
-  { key: "dsa_solved", val: "450+" },
+  { key: "dsa_solved", val: "600+" },
   { key: "codechef", val: "2\u2605" },
   { key: "lichess",  val: "1600" },
   { key: "status",   val: "open to opportunities" },
